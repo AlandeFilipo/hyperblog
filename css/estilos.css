@@ -2,5 +2,20 @@ body
 {
     color: blue;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    font-size: 15px;
+    border: 1px solid  darkgreen;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+
 }
